@@ -1,0 +1,84 @@
+W: Hi Candidate! Pleasure chatting with you this evening. Is now still a good time?
+C: Yes. This is a great time.
+How are you?
+W: I'm great! Thanks for asking.
+As you know I am the AI Hiring Assistant for Wade & Wendy and we're working to bring machine intelligent assistants to the HR / recruiting space. I've already reviewed your info so my focus for this chat will be to learn about your experience that's related to the Technical Product Manager position we're looking to fill. I'll then present these insights to the team so they can make a more informed decision about moving the process forward or not. How does that all sound so far?
+C: Sounds great!
+W: Perfect.
+For a little bit of background about the role, over the next 3-6 months someone successful in this role will most likely have (1) developed and taken a product roadmap through to launch, (2) successfully understood and incorporated the user perspective into all product touchpoints, and finally, (3) helped build a stellar tech team. If this work sounds interesting I'll now transition to some questions that will help me see what you can uniquely bring to this role. Does that sound interesting to you?
+C: Those all sound like interesting things to be working on--tasks that I have some experience with.
+W: Great! Let's get right into it then.
+First, to get a little background about you, I see that you are Technical Product Manager at WebINTENSIVE Software. What attracted you to the role/company?
+C: I wanted to work on products that are operating at scale. For example, one of the products that I have learned a lot from are two search engines that I work on called Startpage.com and ixquick.com.
+Startpage.com does about 180 million searches per month and therefore every feature that we work on has to be able to operate at significant scale.
+I was also drawn to the team. Everybody who works there brings a great attitude and they are really intelligent people.
+To summarize, I knew that I would learn a lot at WebINTENSIVE.
+W: Sounds like a great experience. I love learning too!
+So, about the role...
+This position will require close coordination and collaboration with engineers to address technical challenges and develop estimates of difficulty. What experience do you have that will help you succeed in this capacity?
+C: Sure, every project that I work on involves first interfacing with clients to define the product, writing user stories and defining functionality. Most of my time involves working closely with the engineers to estimate work to ensure that we can meet product deadlines and deliverables.
+W: Very relevant.
+Do you have experience with Agile methodology and if so, what are the merits you see in it?
+C: Every time a client decides they want to add a feature we are required to estimate the work required and break down that estimate into its components. I also work closely with engineers to balance whether we want to build something in house, or use an external API.
+I do have experience in Agile. Agile is good at helping the team iterate quickly on a product by getting user feedback early to make sure we are building a product that the user wants.
+Daily standups also means that members of a cross functional team address problems early.
+W: Great that is helpful.
+C: By getting frequent user feedback you also reduce risk in developing the product.
+Does that answer your question?
+Should I elaborate more?
+W: What about the downsides you've experienced working with the methodology?
+C: First, it is challenging to engage users early because it often requires a significant business development effort. The company also needs to manage client expectations of a product and if the product doesn't deliver on its promise they can potentially lose a customer that might have stuck with the product if it were more developed/refined.
+Waterfall emphasizes building out a product based on a list of defined requirements and often ensures the product is more built out before user acceptance testing.
+W: You make some good points. Thanks for those.
+Can you tell me about a product you have launched in market and what metrics you used to measure its success?
+C: Agile can also be quite exhausting for the development team.
+Sure. My first product at WebINTENSIVE was the company websitewebintensive.com. The primary metrics were site traffic and the number of contacts we got in our office that came through the website.
+By contacts I mean emails to a specific email address, as well as emails that were sent through the web contact form.
+Since the launch of our new website our traffic increased by 4X and our contacts increased by 2X.
+Does that answer your question?
+W: Yes it does!
+Can you now tell me about a time when someone fundamentally disagreed with your approach or direction. What was the disagreement about and how did you deal with it?
+C: I would be happy to. One of the first projects I worked on when I joined WebINTENSIVE was a lead sales platform. The idea was that if I knew someone who wanted to build a mobile app and you were an app developer, I could introduce the two of you. If the introduction led to a sale, we would make our own separate agreement that I would get some kind of commission. The CEO of the company had asked me to do some competitive research.
+What I found and what my instinct also told me was that all of the lead platforms out there put the platform in the middle and charged a percentage of the transaction of the sale of the lead. The platform was like the Uber or Airbnb for leads.
+Our approach required the users to come to a separate agreement off the platform and we would only charge a monthly subscription fee.
+I shared with the CEO my research and concerns that a subscription fee would likely prevent people from even looking at an unproven platform. I explained that users most likely don't want to follow up with the buyer of the lead to see if it closes.
+After I explained my approach, I was told that we would not be implementing it that way.
+So I continued working on the product. With the permission of the CEO I later worked with our partners to get feedback from some first users and we discovered that the users were offering the same advice to us that I had previously recommended.
+After feedback from about a dozen early users, the CEO signed off on the new approach.
+In principle, when people disagree with me I focus on seeking to understand the other person's perspective, keeping focus on the idea and not the person, and when the time is right presenting the evidence for what I am offering.
+Does that answer your question?
+W: It does indeed. Thanks for your response.
+I have one last role-related questions for you...
+What are some methods for building stakeholder buy-in before presenting the product roadmap?
+C: By stakeholders do you mean the other members of the team that is building the product? Of Wade and Wendy for example, or do you mean customers?
+W: Internal and external stakeholders of projects that you've worked on in the past.
+PM: Sure. Building buy-in is all about building relationships and that starts from day one.
+It is important to always try to understand the people you are working with. By this I mean, what are their strengths and what are their weaknesses? Do they love getting into the details, or they more of a strategic planner? What motivates them? Once I can understand them on that level I am able to better tailor my conversation to bring out the best in the people I work with. Starting from your understanding of an individual also helps me communicate with them in a way that they understand and in a way that generates buy-in.
+Also, before presenting a product roadmap it is important that stakeholders agree on the component parts. It is important to engage people throughout the process to bring out the best ideas from all stakeholders.
+That means that there are fewer surprises when the product roadmap is presented and the ideas of the team are fully leveraged.
+The Product Manager should be an expert in product and they should also know the right questions to ask to bring out the ideas from the entire team.
+My cross functional knowledge and experience--business development, user experience, design and engineering--helps me do this.
+I am not saying that I would be the biggest expert in all those areas. Rather I am saying that I can make a significant contribution and I know how to speak the language and ask the right questions of each of the team members who are experts in those areas.
+W: Great answer. Thanks for sharing your experience.
+One last one. Let's say you had to teach a couple lunchtime workshops here at Wade & Wendy. What would you teach us and why?
+C: The purpose of the lunch time workshops is for fun, or to advance the knowledge of the team in an area that is most relevant to the advancement of the company? Or is it both?
+W: The purpose can be to share passions inside or outside of work.
+C: I have been meaning to write a piece called "Why learning hip hop dance is like being an entrepreneur".
+It would be interesting because people don't often think about dance/hip hop dance as resembling entrepreneurship. It is unexpected.
+I have been taking classes for about 2.5 years now and it has been an awesome addition to my life--mentally and physically and socially.
+I have also given speeches at SXSW and Social Media Week about "How to tell stories that drive action."
+A talk on story telling would be interesting because we tell stories all the time without thinking about it. Often we tell stories because we want someone to do something: buy our product, vote for a candidate, etc.
+But most people don't think about how they tell stories, or the structure of story.
+W: That would be great. I'm sure the team would love to learn about these subjects...
+It looks like we're almost out of time so do you have any final thoughts that you'd like to share that'd help the team get a better understanding of why you would be a great fit for the Technical Product Manager position at Wade & Wendy?
+C: Sure. I am super passionate about artificial intelligence. I am devouring books like "The Master Algorithm" and online courses like Stanford University's Machine Learning class. I am always trying to learn to code in new languages. I am eager to speak more to the team about your vision for the company and product. I have a number of ideas about where to take the product that I would love to share in person. My experience working at Startpage.com in particular would make me an asset to the team. There I was responsible for R&D for their Instant Answers functionality, which is comparable to Google's Knowledge Graph. Instant Answers is similar to how you can Google search "Restaurants in Manhattan," or "What time is it in Madrid" and you will get an answer in the browser without going to a link.
+I have a lot of questions about how you were built. For example, do you use approaches from supervised, or unsupervised learning?
+W: Looks like that isn't a question I have an answer to quite yet. I can pass it along to a teammate of mine if you like...
+C: I have also helped recruit software developers, and hired for many other positions when I worked as part of iGiveMore, so I would be able to help with that part of the company too.
+W: Thanks for that Matt! I will pass that along to the team
+It was a pleasure chatting with you! So you know, my next step is to review your info with the team and then I'll get back to you.
+C: Great. Please let me know if you need any other additional information about me.
+W: Will do! Enjoy the day and thanks for your time!
+C: Thank you!
+W: 
+C: 
